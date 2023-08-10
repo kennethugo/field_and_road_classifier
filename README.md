@@ -7,7 +7,7 @@ This repository shows the step by step process of creating a binary classifier t
 * [**Getting Started**](##Getting-Started)
 * [**Methodology and Results**](##Methodology-and-Results)
 * [**Conclusion** ](##Conclusion)
-* [**Further work** ](##-Further-work)
+* [**Further work** ](##Further-work)
 
 ## Introduction
 This project aims to classify images of roads and fields using computer vision techniques. The main task in this exercise is not just about creating a two class road and filed image classifier but also the ability to work with highly imbalanced small dataset. In addition to applying techniques that handles data imbalance in this exercise,  I also applied transfer learning and fine tuning technique because of the small number of the dataset. The weights of a pre-trained MobilenetV2 that has been pre-trained on ImageNet's dataset was used to customize and train the field and road classifier model. I used MobilenetV2 for transfer learning because of it's designed to provide fast and computationally efficient performance, even good for lightweight deep learning tasks. MobileNetv2's depthwise separable convolutions, which reduce the computational complexity and the number of parameters in the network is a good factor to consider when looking for a convolutional neural network architecture that can provide fast Inference and suitable for real-time applications.  
