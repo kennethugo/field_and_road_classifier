@@ -61,12 +61,11 @@ Considering the size of overall dataset, the model achieved impressive results i
 
 ## Conclusion
 
-The Road and Field Binary Classification Project demonstrates the application of transfer learning and advanced computer vision techniques to the task of classifying road and field images. By leveraging a pre-trained model, fine-tuning, and implementing data augmentation,  impressive classification results were achieved. The project's methodology serves as a valuable foundation for similar image classification tasks and can be extended to other domains. There is room for Improvements too.
+The Road and Field Binary Classification Project demonstrates the application of transfer learning and advanced computer vision techniques to the task of classifying road and field images. By leveraging a pre-trained model, fine-tuning, and implementing data augmentation,  impressive classification results were achieved. The project's methodology serves as a valuable foundation for similar image classification tasks and can be extended to other domains. There are rooms for Improvement too.
 
 For detailed code implementation and usage instructions, refer to the [**Getting Started**](##Getting-Started) section above.
 
 
 ## Further work
-
-
+While this project has yielded promising results, there is ample room for future improvements and enhancements.
 
